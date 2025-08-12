@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() 
+{
+    int x=3;
+    char hello;
+    float y= 1.11;
+    double z= 1.1111111111111111111111111111;
+    return 0;
+}
