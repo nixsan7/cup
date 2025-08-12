@@ -16,4 +16,11 @@ ___
 - [x]  [Задание 6](https://github.com/nixsan7/cup/blob/main/chapter%201/section%202/ex%206)
 
 **3. [Поразрядные операции](https://github.com/nixsan7/cup/tree/main/chapter%201/section%203)**
-- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%201/section%203/ex%201)
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%201/section%203/ex%201
+
+**4. [Операции присваивания](https://github.com/nixsan7/cup/tree/main/chapter%201/section%204)**
+- [x]  [обмен через третью переменную](https://github.com/nixsan7/cup/blob/main/chapter%201/section%204/ex%201)
+- [x]  [обмен без третьей переменной](https://github.com/nixsan7/cup/blob/main/chapter%201/section%204/ex%202)
+- [x]  [обмен через xor](https://github.com/nixsan7/cup/blob/main/chapter%201/section%204/ex%203)
+- [x]  [обмен с помощью одного выражения](https://github.com/nixsan7/cup/blob/main/chapter%201/section%204/ex%204)
+
