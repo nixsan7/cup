@@ -7,3 +7,10 @@ ___
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%201/section%201/ex%202)
 - [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%201/section%201/ex%203)
 - [x]  [Задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%201/ex%204)
+
+**2. [Арифметические операции](https://github.com/nixsan7/cup/tree/main/chapter%201/section%202)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%201/section%202/ex%201)
+- [x]  [Задание 2 и 3](https://github.com/nixsan7/cup/blob/main/chapter%201/section%202/ex%202%20and%20ex%203)
+- [x]  [Задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%202/ex%204)
+- [x]  [Задание 5](https://github.com/nixsan7/cup/blob/main/chapter%201/section%202/ex%205)
+- [x]  [Задание 6](https://github.com/nixsan7/cup/blob/main/chapter%201/section%202/ex%206)
