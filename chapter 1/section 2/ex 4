@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() 
+{
+    int a=10;
+    int b=5;
+   int c=a+b;
+   float d=(float)c/2;
+    
+    printf("sum=%d,average=%.2f\n", c, d );
+   
+    return 0;
+}
