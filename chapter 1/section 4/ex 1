@@ -1,0 +1,12 @@
+#include <stdio.h>
+// обмен через третью переменную
+int main() {
+int a =10;
+int b=5;
+int c=a;
+a=b;
+b=c;
+printf("a=%d, b=%d\n", a, b);
+return 0;
+
+}
