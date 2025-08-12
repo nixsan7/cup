@@ -1,0 +1,12 @@
+#include <stdio.h>
+ // через операцию xor
+int main()
+{
+    int x = 10; 
+    int y = 5; 
+   x=x+y-(y=x); 
+ 
+    printf("%d\n",x);
+ 
+    return 0;
+}
