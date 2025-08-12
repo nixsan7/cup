@@ -1,0 +1,14 @@
+#include <stdio.h>
+ // через операцию xor
+int main()
+{
+    int x = 20; 
+    int y = 7; 
+    x ^= y; 
+    y ^= x; 
+    x ^= y; 
+ 
+    printf("%d\n",x);
+ 
+    return 0;
+}
