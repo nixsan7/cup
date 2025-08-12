@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() 
+{
+    int x=10;
+    char c= 'F';
+    float y= 3.14;
+    double z= 3.14159;
+    printf ("x=%d, c=%c, y=%.2f, z=%f\n", x, c, y, z);
+    return 0;
+}
