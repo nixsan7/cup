@@ -24,3 +24,9 @@ ___
 - [x]  [обмен через xor](https://github.com/nixsan7/cup/blob/main/chapter%201/section%204/ex%203)
 - [x]  [обмен с помощью одного выражения](https://github.com/nixsan7/cup/blob/main/chapter%201/section%204/ex%204)
 
+**5. [Условные конструкции](https://github.com/nixsan7/cup/tree/main/chapter%201/section%205)**
+- [x]  [задание 1]((https://github.com/nixsan7/cup/blob/main/chapter%201/section%205/ex%201)
+- [x]  [задание 2 ](https://github.com/nixsan7/cup/blob/main/chapter%201/section%205/ex%202)
+- [x]  [задание 3](https://github.com/nixsan7/cup/blob/main/chapter%201/section%205/ex%203)
+- [x]  [задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%205/ex%204)
+- [x]  [задание 5](https://github.com/nixsan7/cup/blob/main/chapter%201/section%205/ex%205)
