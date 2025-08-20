@@ -1,0 +1,22 @@
+#include <stdio.h>
+ 
+int main(void)
+{
+    int size = 7;
+    for( int i =1; i<= size; i++ ) // задали строки
+    {
+     for( int x =1; x<= size; x++ )  // задали столбцы
+    {
+        if (i == x || i + x == size + 1) //координаты определиили
+          {
+              printf ("*");
+          }
+        else
+            {
+              printf (" ");
+            }
+    }
+    printf (" \n");
+    }
+    return 0;
+}
