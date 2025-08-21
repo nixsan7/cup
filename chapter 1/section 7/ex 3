@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+int main()
+{
+   int massiv[] = {1, 2, 3, 4};
+
+   for(int i=0; i<=3; i++)
+   massiv[i] = massiv[i]*2;
+   for(int i=0; i<=3; i++)
+   {
+    printf("%d\n", massiv[i]);
+   }
+   
+    return 0;
+}
