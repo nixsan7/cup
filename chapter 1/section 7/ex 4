@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int massiv[] = {  1,  2,  3,  4, 5  };
+    int size = sizeof(massiv) / sizeof(massiv[0]);
+    int inversivmassiv[5];
+    for (int i = 0; i <= size; i++)
+        inversivmassiv[i] = massiv[size - i - 1];
+  
+    for( int i=0 ; i<=5;i ++ )
+    {printf("%d\n", inversivmassiv[i]);
+    }
+    return 0;
+}
