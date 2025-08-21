@@ -1,0 +1,8 @@
+#include <stdio.h>
+ 
+int main()
+{
+    char sms[] = "patato";
+    printf("%s\n", sms);
+    return 0;
+}
