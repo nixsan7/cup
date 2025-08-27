@@ -1,0 +1,20 @@
+#include <stdio.h>
+ 
+int main()
+{
+
+    int vis;
+    int shir;
+
+    
+    printf("input vis ");
+    scanf ("%d", &vis);
+    
+    printf(" input shir ");
+    scanf ("%d", &shir);
+    
+    int area = vis * shir;
+    
+    printf(" area = %d\n", area);
+    return 0;
+}
