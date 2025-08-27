@@ -37,3 +37,16 @@ ___
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%201/section%206/ex%202)
 - [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%201/section%206/ex%203)
 - [x]  [Задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%206/ex%204)
+
+**7. [Массивы](https://github.com/nixsan7/cup/tree/main/chapter%201/section%207)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%201/section%207/ex%201)
+- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%201/section%207/ex%202)
+- [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%201/section%207/ex%203)
+- [x]  [Задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%207/ex%204)
+
+**8. [Ввод в консоли](https://github.com/nixsan7/cup/tree/main/chapter%201/section%208)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%201)
+- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%202)
+- [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%203)
+- [x]  [Задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%204)
+- [x]  [Задание 5](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%205)
