@@ -1,0 +1,16 @@
+#include <stdio.h>
+ 
+int main(void)
+{
+    int age;
+    double height;
+    int ves;
+    printf("Input your age:");
+    scanf("%d", &age);
+    printf("Input your ves:");
+    scanf("%d", &ves);
+     printf("Input your height:");
+    scanf("%lf", &height);
+    printf("age = %d, height = %.2lf, ves = %d\n", age, height, ves);
+    return 0;
+}
