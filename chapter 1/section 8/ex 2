@@ -1,0 +1,27 @@
+#include <stdio.h>
+ 
+int main(void)
+{
+    char buffer[50];
+    int age;
+    double height;
+    int ves;
+    
+    printf("Input your age:");
+    fgets (buffer, sizeof(buffer),stdin);
+    sscanf(buffer,"%d", &age);
+    printf("age = %d\n", age);
+    
+    printf("Input your ves:");
+    fgets (buffer, sizeof(buffer),stdin);
+    sscanf(buffer,"%d", &ves);
+    printf("ves = %d\n", ves);
+    
+     printf("Input your height:");
+     fgets (buffer, sizeof(buffer),stdin);
+    sscanf(buffer,"%lf", &height);
+    printf("height = %.2lf\n", height);
+    
+
+    return 0;
+}
