@@ -1,0 +1,12 @@
+#include <stdio.h>
+ 
+int main(void)
+{
+    int x = 10;
+    int *p = &x;
+    int y=*p;
+    printf("x = %d \n", y);
+    *p = 45;
+    printf("x = %d \n", x);
+    return 0;
+}
