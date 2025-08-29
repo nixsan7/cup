@@ -70,7 +70,7 @@ ___
 
 ## 3. [Функции](https://github.com/nixsan7/cup/tree/main/chapter%203)
 
-**1. [Определение и описание функции](https://github.com/nixsan7/cup/tree/main/chapter%203/secton%201)**
+**1. [Определение и описание функции](https://github.com/nixsan7/cup/tree/main/chapter%203/section%201)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/secton%201/ex%201)
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/secton%201/ex%202)
  
