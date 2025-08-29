@@ -51,7 +51,6 @@ ___
 - [x]  [Задание 4](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%204)
 - [x]  [Задание 5](https://github.com/nixsan7/cup/blob/main/chapter%201/section%208/ex%205)
 
-___
 ## 2. [Указатели](https://github.com/nixsan7/cup/tree/main/chapter%202)
 
 **1. [Что такое указатели](https://github.com/nixsan7/cup/tree/main/chapter%202/secton%201)**
