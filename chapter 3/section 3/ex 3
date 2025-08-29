@@ -1,0 +1,24 @@
+#include <stdio.h>
+ 
+int bugaga(int x)
+{
+    if(x<0)
+    {
+        return 0;
+    }
+    int result1 =1;
+    for (int i=1; i<=x; i++)
+    {
+        result1 =result1 *  i;
+    } 
+    {
+    return result1;
+    }
+}
+    int main(void)
+    {
+   int x=30;
+     printf("%d != %d\n", x, bugaga(x));
+     return 0;
+    }
+
