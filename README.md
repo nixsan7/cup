@@ -72,13 +72,13 @@ ___
 
 **1. [Определение и описание функции](https://github.com/nixsan7/cup/tree/main/chapter%203/section%201)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/section%201/ex%201)
-- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/secton%201/ex%202)
+- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/section%201/ex%202)
  
-**2. [Параметры функции](https://github.com/nixsan7/cup/tree/main/chapter%203/secton%202)**
-- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/secton%202/ex%201)
-- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/secton%202/ex%202)
+**2. [Параметры функции](https://github.com/nixsan7/cup/tree/main/chapter%203/section%202)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/section%202/ex%201)
+- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/section%202/ex%202)
  
-**3. [Результат функции](https://github.com/nixsan7/cup/tree/main/chapter%203/secton%203)**
+**3. [Результат функции](https://github.com/nixsan7/cup/tree/main/chapter%203/section%203)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/section%203/ex%201)
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/section%203/ex%202)
 - [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%203/section%203/ex%203)
