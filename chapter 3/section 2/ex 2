@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+void mnoga(int const x)
+{
+     int y=x*2;
+    printf("x = %d \n", x);
+     printf("y = %d \n", y);
+}
+ 
+int main(void)
+
+{ int p=8;
+   mnoga(p);
+    return 0;
+}
