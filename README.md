@@ -64,7 +64,7 @@ ___
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%201)
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%202)
 - [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%203)
-**4. [Массив указателей](https://github.com/nixsan7/cup/tree/main/chapter%202/section%204)**
+**4. [Массив указателей] (https://github.com/nixsan7/cup/tree/main/chapter%202/section%204)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%202/section%204/ex%201)
 
 ## 3. [Функции](https://github.com/nixsan7/cup/tree/main/chapter%203)
