@@ -63,4 +63,4 @@ ___
 **3. [Указатели, массивы и строки](https://github.com/nixsan7/cup/tree/main/chapter%202/section%203)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%201)
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%202)
-- [x]  [Задание 3]https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%203)
+- [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%202/section%203/ex%203)
