@@ -1,0 +1,26 @@
+#include <stdio.h>
+ 
+int calculate(int x, int y, char operation)
+{
+    if(x>y)
+    {
+        return x - y;
+    }
+    else if(x<y)
+    {
+        return x + y;
+    }
+    else
+    {
+        return 0;
+    }
+}
+ 
+int main(void)
+{
+    int x = 30;
+    int y = 50;
+    int result3 = calculate(x, y,'=');
+    
+    printf("%d \n", result3);
+}
