@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+void plus(int x)
+{
+    x=x+5;
+    printf("x = %d \n", x);
+}
+ 
+int main(void)
+{
+    int y=7;
+    plus(y);
+    printf("y = %d \n", y);
+}
+    return 0;
