@@ -84,5 +84,25 @@ ___
 - [x]  [Задание 3](https://github.com/nixsan7/cup/blob/main/chapter%203/section%203/ex%203)
 
 **4. [Указатели в параметрах функции](https://github.com/nixsan7/cup/tree/main/chapter%203/section%204)**
-- [x]  [Задание 1](https://github.com/nixsan7/cup/commit/34cdc26f1b2b89be4b00727f4682575e6459fdd8)
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/section%204/ex%201)
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%203/section%204/ex%202)
+
+**5. [Указатели на функции](https://github.com/nixsan7/cup/tree/main/chapter%203/section%205)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%203/section%205/ex%201)
+
+## 4. [Препроцессор](https://github.com/nixsan7/cup/tree/main/chapter%204/section%201%20)
+
+**1. [Директива #define и макросы](https://github.com/nixsan7/cup/tree/main/chapter%204/section%201%20)
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%204/section%201%20/ex%201)
+
+## 5. [Структуры](https://github.com/nixsan7/cup/tree/main/chapter%205)
+
+**1. [Структуры](https://github.com/nixsan7/cup/tree/main/chapter%205/section%201)
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%205/section%201/ex%201)
+- [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%205/section%201/ex%202)
+
+**2. [Указатели на стуктуры](https://github.com/nixsan7/cup/tree/main/chapter%205/section%202)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%205/section%202/ex1)
+
+**3. [Перечисления](https://github.com/nixsan7/cup/tree/main/chapter%205/section%203)**
+- [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%205/section%203/ex1)
