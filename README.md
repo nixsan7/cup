@@ -92,12 +92,12 @@ ___
 
 ## 4. [Препроцессор](https://github.com/nixsan7/cup/tree/main/chapter%204/section%201%20)
 
- **1. [Директива #define и макросы](https://github.com/nixsan7/cup/tree/main/chapter%204/section%201%20)
+**1. [Директива #define и макросы](https://github.com/nixsan7/cup/tree/main/chapter%204/section%201%20)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%204/section%201%20/ex%201)
 
 ## 5. [Структуры](https://github.com/nixsan7/cup/tree/main/chapter%205)
 
- **1. [Структуры](https://github.com/nixsan7/cup/tree/main/chapter%205/section%201)
+**1. [Структуры](https://github.com/nixsan7/cup/tree/main/chapter%205/section%201)**
 - [x]  [Задание 1](https://github.com/nixsan7/cup/blob/main/chapter%205/section%201/ex%201)
 - [x]  [Задание 2](https://github.com/nixsan7/cup/blob/main/chapter%205/section%201/ex%202)
 
