@@ -1,9 +1,0 @@
-#include <stdio.h>
-#define N 22
-  
-int main(void)
-{
-    printf("Number: %d", N);   // Number: 22
-    #undef N 
-    return 0;
-}
