@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+struct person
+{
+    char *name;
+    int age;
+};
+
+int main(void)
+{
+    struct person sam = {"sam", 23};
+    struct person *sam_p = &sam;
+    
+    char *name = sam_p->name; 
+    int age = sam_p->age;      
+    
+    printf("Name: %s\n", name);
+    printf("Age: %d\n", age);
+    
+    return 0;
+}
