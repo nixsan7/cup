@@ -1,0 +1,13 @@
+#include <stdio.h>
+ 
+void print(char blabla[])
+{
+    printf(blabla);
+}
+ 
+int main(void)
+{
+    print("pupupu \n");
+    print("pariram \n");
+    return 0;
+}
